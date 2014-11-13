@@ -46,7 +46,7 @@
 		<installation>
 			<level>easy</level>
 			<time>900</time>
-			<target-version>3.0.4</target-version>
+			<target-version>3.0.12</target-version>
 		</installation>
 
 		<history>
@@ -86,6 +86,16 @@
 					<change>[Change] Обновление MODX.</change>
 					<change>[Fix] Небольшое исправление кода для предотвращения ошибок типа "undefined index".</change>
 					<change>[Fix] Исправлен баг, позволявший прочитать скрытый текст.</change>
+				</changelog>
+			</entry>			
+			<entry>
+				<date>2014-11-13</date>
+				<rev-version>1.0.3</rev-version>
+				<changelog lang="en">
+					<change>Minor code modification for phpBB 3.0.12 compliance</change>
+				</changelog>
+				<changelog lang="ru">
+					<change>Небольшое исправление кода для подтверждения совместимости с phpBB 3.0.12</change>
 				</changelog>
 			</entry>			
 		</history>
